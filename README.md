@@ -14,14 +14,14 @@ _Header_
 
 type     | size | description
 :---------|:---:|:-------------
-uint_32t | 4 | Record count
+uint32 | 4 | Record count
 
 _Records_
 
 type     | size | description
 :---------|:---:|:-------------
-uint_32t | 4 | Offset
-uint_32t | 4 | Length
+uint32 | 4 | Offset
+uint32 | 4 | Length
 
 
 ##### BlockChain
